@@ -21,7 +21,7 @@ Basic Tower shoots a laser shot at a fairly regular pace. Upgraded, will hit har
 Machine Gun Tower shoots weaker laser at a rapid pace and a shorter range than Basic.  Upgraded, will hit harder and shoot slightly further.
 Sniper Tower shoots a powerful, long range shot at a slow pace.  Upgraded will hit harder and shoot farther.
 Pulse Tower emits an AOE field around it every few seconds, damaging all enemies in the area.  Upgraded hits harder.
-Rocket Tower shoots missles that explode into splash damage, hurting any nearby enemie.  Upgraded fires twice as fast.
+Rocket Tower shoots missles that explode into splash damage, damaging any nearby enemies.  Upgraded fires twice as fast.
 
 Next Wave starts the next wave and can only be activated when all enemies are defeated.  
 
